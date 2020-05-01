@@ -8,16 +8,17 @@ body {
     width: 12%;
     height: 75px;
     background: #ccc;
+    font-size: 0.75em;
     margin: 5px 2px 5px 2px;
-    padding: 5px;
+    padding: 10px;
     transition: background .25s ease-in-out;
 }
 .calendarCell:hover {
-    background-color: #C9C;
+    background-color: rgb(101, 185, 122);
 }
 .calendarCellSelected{
 	display: inline-block;
-    background-color: #C9C;
+    background-color: rgb(121, 224, 144);
     color:#FFF;
     font-weight:700;
 	width:12%;
