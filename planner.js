@@ -2,17 +2,17 @@ var date;
 var eventDescription;
 var entryID;
 
-function initCalendarGrid() {
+// function initCalendarGrid() {
 
-}
+// }
 
-function getDate() {
+// function getDate() {
 
-}
+// }
 
-function displayDate(entryID) {
+// function displayDate(entryID) {
 
-}
+// }
 
 function getDescription() {
   console.log("getDescription reached");
@@ -30,6 +30,6 @@ function getDescription() {
 
 }
 
-function displayDescription(entryID) {
+// function displayDescription(entryID) {
 
-}
+// }
