@@ -1,4 +1,4 @@
-var date;
+var date = 44;
 var eventDescription;
 var entryID;
 
